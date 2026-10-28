@@ -1,18 +1,8 @@
-# perpustakaan_mini
+## Kelompok (Yang Penting IMO)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Perpustakaan-Mini-UTS
+| NIM            | Nama                 | Peran Utama | Deskripsi Tugas                                                                                          |
+| :------------- | :------------------- | :---------- | :------------------------------------------------------------------------------------------------------- |
+| **2411500032** | **Rifqi Al Ghifari** | Anggota 1   | Auth + navigasi + struktur folder                                                                        |
+| **2411500024** | **Jibran Pratama**   | Anggota 2   | Firestore CRUD + Model/Service/Provider + ViewState (Bagian Write: Add, Update, Delete)                  |
+| **2411500013** | **Rifky Peratama**   | Anggota 3   | Dio REST API + loading/error/empty + Future vs Stream                                                    |
+| **2411500008** | **Muhamad Julfandi** | Anggota 4   | Firestore CRUD + Model/Service/Provider + ViewState (Bagian Read: Realtime Stream & Client-side Sorting) |

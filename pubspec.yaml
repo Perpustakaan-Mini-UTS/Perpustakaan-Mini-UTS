@@ -1,0 +1,24 @@
+name: perpustakaan_mini
+description: "Aplikasi Perpustakaan Mini UTS Pemrograman Multi Platform"
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: 6.1.5
+  dio: 5.11.1
+  firebase_core: ^4.2.0
+  firebase_auth: ^6.1.0
+  cloud_firestore: ^6.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
