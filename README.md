@@ -61,7 +61,7 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek di perangkat lokal /
 ### 2. Clone Repository
 
 ```bash
-git clone https://github.com/NAMA_ORGANISASI/uts-pmp-perpustakaan-mini.git
+git clone https://github.com/Perpustakaan-Mini-UTS/Perpustakaan-Mini-UTS.git
 cd uts-pmp-perpustakaan-mini
 ```
 
