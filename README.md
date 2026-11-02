@@ -62,7 +62,7 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek di perangkat lokal /
 
 ```bash
 git clone https://github.com/Perpustakaan-Mini-UTS/Perpustakaan-Mini-UTS.git
-cd uts-pmp-perpustakaan-mini
+cd Perpustakaan-Mini-UTS
 ```
 
 ### 3. Install Dependencies
